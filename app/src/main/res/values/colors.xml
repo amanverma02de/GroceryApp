@@ -8,6 +8,6 @@
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
     <color name="mtrl_textinput_default_box_stroke_color" tools:overrise = "true">#296D98</color>
-    <color name="blue_shade2">#0e2433</color>
-    <color name="blue_shade1">#1C4966</color>
+    <color name="blue_shade2">#FFE5B4</color>
+    <color name="blue_shade1">#DB5A6B</color>
 </resources>
